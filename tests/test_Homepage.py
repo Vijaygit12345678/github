@@ -22,7 +22,7 @@ class TestHomePage(Baseclass):
         time.sleep(5)
         homepage.getEmail().click()
         time.sleep(5)
-        print("This is new change")
+        
 
         # Select class provide the methods to handle the options in dropdowns
 
